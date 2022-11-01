@@ -1,21 +1,38 @@
-### Hey <img src="https://user-images.githubusercontent.com/106432362/194119684-923ebb8f-23ca-4352-9d08-563d4e09a7d4.gif" width="40"/> I'm GAGAN TYAGI!
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/106432362/194119684-923ebb8f-23ca-4352-9d08-563d4e09a7d4.gif" width="40"/>, I'm Gagan Tyagi</h1>
 
-### A Computer Science Student who is Coder as well as Story Teller and Occasional Poet.
+<h3 align="center">A Computer Science Student who is Coder as well as Story Teller and Occasional Poet.</h3>
 
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Bethegnt/profile-activity-generator/master/demo.png" />
+</div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bethegnt/count.svg" />
+</p>
 
 
 ---
 
 ## About Me:
+- 🔭 I’m currently working on [140-Days-Challange](https://github.com/Bethegnt/140-Days-Challenge)
 
-- 🔭 I’m currently working on 140-Days-Challange.
-- 🌱 I’m currently learning DSA in JAVA language.
-
-
+- 🌱 I’m currently learning **DSA in JAVA language.**
 
 
-![BETHEGNT GitHub stats](https://github-readme-stats.vercel.app/api?username=BETHEGNT&show_icons=true&theme=radical)
+
+<p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
+
+<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p>
+
+<!-- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethegnt&show_icons=true&locale=en&layout=compact" alt="bethegnt" /></p> -->
+
+
+
+
+
+<!--  ![BETHEGNT GitHub stats](https://github-readme-stats.vercel.app/api?username=BETHEGNT&show_icons=true&theme=radical) -->
 
 ## Technical Skills: 
 
@@ -61,3 +78,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
