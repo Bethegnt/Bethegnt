@@ -21,10 +21,10 @@
 - 🌱 I’m currently learning **DSA in JAVA language.**
 
 
+## Status: 
+<p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
 
-<p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
-
-<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p>
+<p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p>
 
 <!-- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethegnt&show_icons=true&locale=en&layout=compact" alt="bethegnt" /></p> -->
 
