@@ -32,7 +32,7 @@
 
 
 
-<!--  ![BETHEGNT GitHub stats](https://github-readme-stats.vercel.app/api?username=BETHEGNT&show_icons=true&theme=radical) -->
+<!-- ![BETHEGNT GitHub stats](https://github-readme-stats.vercel.app/api?username=BETHEGNT&show_icons=true&theme=radical) -->
 
 ## Technical Skills: 
 
