@@ -12,8 +12,6 @@
   <img src="https://profile-counter.glitch.me/bethegnt/count.svg" />
 </p>
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/Bethegnt/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
