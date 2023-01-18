@@ -3,14 +3,19 @@
 <h3 align="center">A Computer Science Student who is Coder as well as Story Teller and Occasional Poet.</h3>
 
 
+
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Bethegnt/profile-activity-generator/master/demo.png" />
+<!-- <img src="https://gpvc.arturio.dev/Bethegnt" alt="Profile views"/>  -->
+  <!-- <img src="https://raw.githubusercontent.com/Bethegnt/profile-activity-generator/master/demo.png" />. -->
 </div>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bethegnt/count.svg" />
 </p>
+
+
 
 
 ---
@@ -22,6 +27,10 @@
 
 
 ## Status: 
+
+## LeetCode for lyfe! ([profile](https://leetcode.com/yangshun))
+[![Gagan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bethegnt)](https://github.com/KnlnKS/leetcode-stats)
+
 <p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
 
 <p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p>
