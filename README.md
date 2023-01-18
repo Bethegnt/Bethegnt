@@ -28,7 +28,7 @@
 
 ## Status: 
 
-## LeetCode for lyfe! ([profile](https://leetcode.com/yangshun))
+## LeetCode for lyfe! ([profile](https://leetcode.com/Bethegnt))
 [![Gagan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bethegnt)](https://github.com/KnlnKS/leetcode-stats)
 
 <p>&nbsp;<img align="Center" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
