@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/106432362/194119684-923ebb8f-23ca-4352-9d08-563d4e09a7d4.gif" width="40"/>, I'm Gagan Tyagi</h1>
 
-<h3 align="center">A Computer Science Student who is Coder as well as Story Teller and Occasional Poet.</h3>
+<h3 align="center">A Computer Science Student who is Coder as well as Story Teller.</h3>
 
 
 
