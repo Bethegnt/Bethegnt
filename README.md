@@ -2,9 +2,6 @@
 
 <h3 align="center">A Computer Science Student who is Coder as well as Story Teller.</h3>
 
-
-
-
 <div align="center">
 <!-- <img src="https://gpvc.arturio.dev/Bethegnt" alt="Profile views"/>  -->
   <!-- <img src="https://raw.githubusercontent.com/Bethegnt/profile-activity-generator/master/demo.png" />. -->
