@@ -25,7 +25,7 @@
 [![Gagan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bethegnt)](https://github.com/KnlnKS/leetcode-stats) 
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethegnt&show_icons=true&locale=en&layout=compact" alt="bethegnt" /></p>
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api?username=bethegnt&show_icons=true&locale=en" alt="bethegnt" /></p>
-<p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p>
+<!-- <p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethegnt&" alt="bethegnt" /></p> -->
 
 
 ## How to Reach Me:
