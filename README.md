@@ -2,12 +2,9 @@
 <p align="center" color=purple> 
     <img src="https://badges.pufler.dev/years/bethegnt" alt="Active_Years"/>
     <a href="https://github.com/bethegnt?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/bethegnt" alt="Repos"/></a>
-  <a href="https://github.com/bethegnt" target="_blank"><img alt="bethegnt" src="https://badges.pufler.dev/visits/bethegnt/bethegnt?refresh logo=GitHub&label=visits&color&logoColor=white&style=fflat-square"/></a> 
+  <a href="https://github.com/bethegnt" target="_blank"><img alt="bethegnt" src="https://badges.pufler.dev/visits/bethegnt/bethegntlogo=GitHub&label=visits&color&logoColor=white&style=fflat-square"/></a> 
     <a href="https://github.com/bethegnt/bethegnt" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/bethegnt" alt="commits"/>
 </p> 
-
-<!--[![](https://visitcount.itsvg.in/api?id=bethegnt&icon=0&color=0)](https://visitcount.itsvg.in)-->
-
 
 # 💻 Tech Stack:
 ## Language:
