@@ -1,8 +1,8 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
-<p align="center"> 
+<p align="center" color=purple> 
     <img src="https://badges.pufler.dev/years/bethegnt" alt="Active_Years"/>
     <a href="https://github.com/bethegnt?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/bethegnt" alt="Repos"/></a>
-  <a href="https://github.com/bethegnt" target="_blank"><img alt="bethegnt" src="https://badges.pufler.dev/visits/bethegnt/bethegnt?logo=GitHub&label=visits&color=success&logoColor=white&style=fflat-square"/></a> 
+  <a href="https://github.com/bethegnt" target="_blank"><img alt="bethegnt" src="https://badges.pufler.dev/visits/bethegnt/bethegnt?refresh logo=GitHub&label=visits&color&logoColor=white&style=fflat-square"/></a> 
     <a href="https://github.com/bethegnt/bethegnt" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/bethegnt" alt="commits"/>
 </p> 
 
