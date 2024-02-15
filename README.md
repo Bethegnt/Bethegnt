@@ -24,7 +24,7 @@
 
 ## Projects? 
 - 💻 [Netflix-GPT (Nov 2023-Dec 2023)](https://netflix-gpt-bethegnt.vercel.app/)
-- 💻 [React-Cart (Oct 2023)](https://booksdekho.netlify.app/](https://react-cart-bethegnt.vercel.app/))
+- 💻 [React-Cart (Oct 2023)](https://react-cart-bethegnt.vercel.app/))
 
 
 <h3 align="left">Languages and Tools:</h3>
